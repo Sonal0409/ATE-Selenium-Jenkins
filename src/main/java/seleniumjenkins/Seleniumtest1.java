@@ -13,9 +13,9 @@ public class Seleniumtest1 {
 		System.out.println("Maxamise the browser");
 		System.out.println("Open the URL");
 		//driver.get("https://www.google.com/");
-		System.out.println("test the feature"));
+		System.out.println("test the feature");
 		
-		System.out.println("Close the browser"));
+		System.out.println("Close the browser");
 	
 
 	}
